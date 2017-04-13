@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComputersBasicQuiz</string>
+    <string name="_0">0</string>
+    <string name="choice1">CPU</string>
+    <string name="ram">choice2</string>
+    <string name="Choice3">RAM</string>
+    <string name="score">Score:</string>
+</resources>
